@@ -11,7 +11,7 @@ class About extends React.Component {
                         <div className="container-fluid text-center">
 
                         <div class="col-sm-6 ">
-                        <img src={Pic} class="rounded mx-auto d-block"  width="300" height="300"/>
+                        <img src={Pic} class="rounded mx-auto d-block"  width="400" height="300"/>
                     </div>
                     
                     
