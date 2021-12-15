@@ -7,8 +7,8 @@ class Home extends React.Component {
         return (
         <div class="row">
             <div class="col-sm-6 ">
-                <div className="container-fluid text center">
-                <img src={lazy} class="rounded mx-auto d-block"  width="500" height="300"/>
+                <div className="text center">
+                <img src={lazy} class="flex-center"  width="500" height="300"/>
                 </div>
                 
         </div> 

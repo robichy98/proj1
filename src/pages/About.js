@@ -6,12 +6,12 @@ class About extends React.Component {
     render() {
         return (
             <div>
-                <div class='row'>
+                <div class='column'>
                     <div class="col-sm-6 ">
                         <div className="container-fluid text-center">
 
                         <div class="col-sm-6 ">
-                        <img src={Pic} class="rounded mx-auto d-block"  width="300" height="300"/>
+                        <img src={Pic} class="center"  width="500" height="400"/>
                     </div>
                     
                     
