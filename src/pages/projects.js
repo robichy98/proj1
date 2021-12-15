@@ -24,7 +24,7 @@ class Projects extends React.Component {
                             <div className="container-fluid text-center">
                             <h2> Laundry Room sign up Project</h2>
                             <a href="https://github.com/robichy98/myprogrammingproject"> github </a>
-                            <p> Laundry room project </p>
+                            <p> Laundry room project: Customer can sign up and book a place to do laundry. They will get notification and able to change it as well. </p>
                         </div>
                     </div>
                     
